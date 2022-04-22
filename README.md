@@ -40,7 +40,7 @@ Output: ["BA1 / 1.1.x", "BA1 / 1.10.a", "BA1 / 1.10.c"]
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/RaquelLima7/first_challenge.git
 ```
 
 Go to the project directory
